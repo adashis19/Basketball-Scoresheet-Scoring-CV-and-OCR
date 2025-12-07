@@ -66,7 +66,7 @@ Combines:
 
 ---
 
-## 🛠️ Tech Stack (Configurable)
+## 🛠️ Tech Stack
 
 This project may include combinations of the following (customize depending on your repo):
 
